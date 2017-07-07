@@ -9,3 +9,7 @@ Otimiza a produção de templates.
 ## Instalação
 
 Coloque o arquivo grid.scss na sua pasta sass e execute o grunt ou gulp.
+
+## Testando
+
+Teste
